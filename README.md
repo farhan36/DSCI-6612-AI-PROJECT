@@ -40,6 +40,6 @@ In this project, the objective is to predict whether the person has Diabetes or 
 - Numpy, Pandas
 - Flask
 
-# Date: 05/05/2022
+# Date: 05/04/2022
 
 
