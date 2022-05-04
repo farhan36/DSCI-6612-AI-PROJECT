@@ -31,8 +31,8 @@ In this project, the objective is to predict whether the person has Diabetes or 
 
 # Technical Aspect
 - Training a machine learning model using scikit-learn.
-- Building and hosting a Flask web app on Heroku.
-- A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc .
+- Building  a Flask web app.
+- A user has to put details like Number of Pregnancies, Insulin Level, Age, BMI etc.
 - Once it get all the fields information , the prediction is displayed on a new page .
 
 # Technologies Used
