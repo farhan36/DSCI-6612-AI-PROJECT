@@ -1,2 +1,1 @@
 # DSCI-6612-AI-PROJECT
-#Spring 2022
